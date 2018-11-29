@@ -1,2 +1,2 @@
 # Minesweeper
-Simple text based Minesweeper game in Python.
+Simple text based Minesweeper game.
